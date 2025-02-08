@@ -14,3 +14,9 @@ body {
   flex-direction: row;
   
 }
+
+.resimler {
+  display: flex;
+  flex-direction: row;
+  row-gap: 15px;
+}
