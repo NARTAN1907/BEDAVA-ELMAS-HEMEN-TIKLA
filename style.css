@@ -20,3 +20,10 @@ body {
   flex-direction: row;
   row-gap: 15px;
 }
+
+.fatura {
+  color: greenyellow;
+  &:hover {
+    color: black;
+  }
+}
