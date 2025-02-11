@@ -3,4 +3,3 @@ const gonder = () => {
   const phone = document.getElementById('phone').value
   console.log(namee, phone)
 }
-

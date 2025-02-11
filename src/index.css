@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@layer base {
+  input {
+    @apply rounded-lg p-2 border-2 border-black w-fit focus:outline-blue-700
+  }
+  html body {
+    @apply bg-[greenyellow] w-full h-full
+  }
+}
